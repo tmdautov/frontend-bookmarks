@@ -16,3 +16,7 @@ https://www.youtube.com/watch?v=Xi0S4xOS8HY&list=PLyf8LgkO_8q9BWUTfXtH3PQnPl1zgk
 
 3. Список всего, что можно поместить в тег <head>
 http://gethead.info/
+
+
+### Собеседование
+1. [Вопросы собеседования](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
