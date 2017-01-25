@@ -8,4 +8,5 @@ http://caniuse.com/
 https://github.com/urfu-2015
 
 ### Верстка 
-1. http://glivera-team.github.io/how-to/2016/05/02/how-to-start.html
+1. Как стать начинающим верстальщиком 
+http://glivera-team.github.io/how-to/2016/05/02/how-to-start.html
