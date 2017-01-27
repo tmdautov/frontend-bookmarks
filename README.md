@@ -17,5 +17,11 @@ https://www.youtube.com/watch?v=Xi0S4xOS8HY&list=PLyf8LgkO_8q9BWUTfXtH3PQnPl1zgk
 http://gethead.info/
 
 
+4. [Чеклист верстки](https://github.com/ihorzenich/html5checklist/)
+
+5. [Чеклист скорости загрузки сайта](https://github.com/ihorzenich/WebPerformanceChecklist)
+
+
+
 ### Собеседование
 1. [Вопросы собеседования](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
