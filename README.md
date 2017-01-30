@@ -21,3 +21,6 @@ https://github.com/urfu-2015
 
 ### Собеседование
 1. [Вопросы собеседования](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
+
+### Блогеры
+1. [Блог Тодда из Google](https://toddmotto.com)
