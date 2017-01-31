@@ -16,7 +16,8 @@
 
 5. [Чеклист скорости загрузки сайта](https://github.com/ihorzenich/WebPerformanceChecklist)
 
-
+### Angular
+1. [Список полезных ссылок по Angular](https://github.com/jmcunningham/AngularJS-Learning)
 
 ### Собеседование
 1. [Вопросы собеседования](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
