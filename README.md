@@ -5,6 +5,8 @@
 
 2. [Курсы по фронтенду в УрФУ-2015-2016](https://github.com/urfu-2015)
 
+3. [Progressive web app by Google](https://developers.google.com/web/)
+
 ### Верстка 
 1. [Как стать начинающим верстальщиком](http://glivera-team.github.io/how-to/2016/05/02/how-to-start.html)
 
