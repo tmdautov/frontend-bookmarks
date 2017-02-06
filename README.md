@@ -21,6 +21,8 @@
 ### Angular
 1. [Список полезных ссылок по Angular](https://github.com/jmcunningham/AngularJS-Learning)
 
+2. [Server side rendering for SEO](https://github.com/prerender/prerender)
+
 ### Собеседование
 1. [Вопросы собеседования](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
 
