@@ -23,6 +23,8 @@
 
 2. [Server side rendering for SEO](https://github.com/prerender/prerender)
 
+3. [Angular.js Mobile UI Framework with Bootstrap 3](https://github.com/mcasimir/mobile-angular-ui)
+
 ### Собеседование
 1. [Вопросы собеседования](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
 
