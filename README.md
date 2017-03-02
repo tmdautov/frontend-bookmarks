@@ -4,6 +4,10 @@
 1. [Библиотека isJS для определения версии браузера или мобилка/десктоп](http://is.js.org/)
 2. [Линейка для экрана ScreenRuler](https://community.linuxmint.com/software/view/screenruler)
 3. Cors Toogle
+4. What font
+5. Wappalyzer
+6. Colorzilla
+7. 
 
 
 ### Разное
