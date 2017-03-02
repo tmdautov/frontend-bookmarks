@@ -2,7 +2,8 @@
 
 ### Плагины
 1. [Библиотека isJS для определения версии браузера или мобилка/десктоп](http://is.js.org/)
-
+2. [Линейка для экрана ScreenRuler](https://chrome.google.com/webstore/detail/page-ruler/jlpkojjdgbllmedoapgfodplfhcbnbpn/related?hl=ru)
+3. Cors Toogle
 
 
 ### Разное
