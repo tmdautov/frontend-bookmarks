@@ -44,3 +44,4 @@
 
 ### SEO
 1. [61 способ улучшить SEO вашего сайта](https://habrahabr.ru/company/iloveip/blog/322206/)
+2. [Делаем Angular.js сайт доступным для роботов. Часть 1](https://habrahabr.ru/post/235395/)
