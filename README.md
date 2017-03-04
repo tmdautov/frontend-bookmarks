@@ -38,6 +38,8 @@
 
 3. [Angular.js Mobile UI Framework with Bootstrap 3](https://github.com/mcasimir/mobile-angular-ui)
 
+4. [Angularjs Style Guide](https://github.com/johnpapa/angular-styleguide/blob/master/a1/README.md)
+
 ### Собеседование
 1. [Вопросы собеседования](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
 
