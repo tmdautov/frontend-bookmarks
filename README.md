@@ -9,6 +9,8 @@
 6. Colorzilla
 7. 
 
+### Node.js
+1. [Список хостингов для Node.js](https://github.com/nodejs/node-v0.x-archive/wiki/Node-Hosting)
 
 ### Разное
 1. [На этом сайте можно проверить, можно ли применять определенную функцию js или свойство css в браузерах](http://caniuse.com/)
