@@ -7,7 +7,7 @@
 4. What font
 5. Wappalyzer
 6. Colorzilla
-7. 
+7. [Perfect pixel](https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi?hl=ru)
 
 ### Node.js
 1. [Список хостингов для Node.js](https://github.com/nodejs/node-v0.x-archive/wiki/Node-Hosting)
