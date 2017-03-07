@@ -20,6 +20,8 @@
 
 3. [Progressive web app by Google](https://developers.google.com/web/)
 
+4. [Виды аутентификации в вебе](https://github.com/teesloane/Auth-Boss?utm_source=forwebdev_tlgrm&utm_medium=announcement&utm_campaign=auth-boss--kollektsiya-razlichnyh-sposobov)
+
 
 ### Верстка 
 1. [Как стать начинающим верстальщиком](http://glivera-team.github.io/how-to/2016/05/02/how-to-start.html)
