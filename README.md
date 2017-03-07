@@ -41,6 +41,8 @@
 
 4. [Angularjs Style Guide](https://github.com/johnpapa/angular-styleguide/blob/master/a1/README.md)
 
+5. [Angularjs Range Slider](https://github.com/angular-slider/angularjs-slider)
+
 ### Собеседование
 1. [Вопросы собеседования](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
 
