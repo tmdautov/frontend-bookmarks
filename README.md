@@ -47,6 +47,8 @@
 
 5. [Angularjs Range Slider](https://github.com/angular-slider/angularjs-slider)
 
+6. [Angular Mobile UI](http://mobileangularui.com/)
+
 ### Собеседование
 1. [Вопросы собеседования](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
 
