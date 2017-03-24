@@ -4,3 +4,7 @@
 
 ### DP
 1. [Dynamic programming in CF](http://codeforces.com/blog/entry/325)
+
+
+### Other
+1. [Awesome list](http://codeforces.com/blog/entry/23054)
