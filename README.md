@@ -10,6 +10,7 @@
 7. [Perfect pixel](https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi?hl=ru)
 8. [Ограничитель по времени для сайтов](https://chrome.google.com/webstore/detail/stayfocusd/laankejkbhbdhmipfmgcngdelahlfoji/related?hl=ru)
 9. [Jquery smart banner](https://github.com/jasny/jquery.smartbanner)
+11. [masonry - Cascading grid layout library](http://masonry.desandro.com/)
 
 ### Node.js
 1. [Список хостингов для Node.js](https://github.com/nodejs/node-v0.x-archive/wiki/Node-Hosting)
