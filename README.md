@@ -28,6 +28,8 @@
 
 6. [Сайт, на котором можно проверить срок годности SSL сертификата](https://www.sslshopper.com)
 
+7. [Frontend whitelist](https://github.com/melnik909/frontend-whitelist/blob/master/README.md)
+
 ### Верстка 
 1. [Как стать начинающим верстальщиком](http://glivera-team.github.io/how-to/2016/05/02/how-to-start.html)
 
