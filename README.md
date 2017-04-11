@@ -56,6 +56,8 @@
 
 ### Собеседование
 1. [Вопросы собеседования](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
+2. [Список тестовых заданий от Hexlet](https://github.com/Hexlet/ru-test-assignments?utm_source=forwebdev_tlgrm&utm_medium=announcement&utm_campaign=rebyata-iz-heksleta-sobirayut-kollektsiyu-te)
+3. [JS practice tasks](https://github.com/kolodny/exercises?utm_source=forwebdev_tlgrm&utm_medium=announcement&utm_campaign=kollektsiya-prakticheskih-zadaniy-po-javasc)
 
 ### Блогеры
 1. [Блог Тодда из Google](https://toddmotto.com)
@@ -66,3 +68,7 @@
 
 ### GIT
 1. [Изуччение Git через игру](http://learngitbranching.js.org/)
+
+
+### Архитектура
+1. [Twitter progressive web app](https://blog.twitter.com/2017/how-we-built-twitter-lite?utm_source=forwebdev_tlgrm&utm_medium=announcement&utm_campaign=inzhenery-tvitera-rasskazyvayut--kak-oni-s)
