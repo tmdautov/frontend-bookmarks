@@ -12,6 +12,8 @@
 9. [Jquery smart banner](https://github.com/jasny/jquery.smartbanner)
 11. [masonry - Cascading grid layout library](http://masonry.desandro.com/)
 
+
+
 ### Node.js
 1. [Список хостингов для Node.js](https://github.com/nodejs/node-v0.x-archive/wiki/Node-Hosting)
 
@@ -31,6 +33,8 @@
 7. [Frontend whitelist](https://github.com/melnik909/frontend-whitelist/blob/master/README.md)
 
 8. [Accessibility Checklist](http://accessibility.voxmedia.com/?utm_source=forwebdev_tlgrm&utm_medium=announcement&utm_campaign=bolshoy-cheklist-vox-media-po-obespecheniyu)
+
+9. [Encode/Decode URL helper](http://meyerweb.com/eric/tools/dencoder/)
 
 ### Верстка 
 1. [Как стать начинающим верстальщиком](http://glivera-team.github.io/how-to/2016/05/02/how-to-start.html)
