@@ -8,3 +8,4 @@
 
 ### Other
 1. [Awesome list](http://codeforces.com/blog/entry/23054)
+2. [csacademy - competitions on interivew questions](https://csacademy.com/)
