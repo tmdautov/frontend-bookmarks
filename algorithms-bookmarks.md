@@ -1,3 +1,6 @@
+### Intresting users
+1. [Przemysław Dębiak aka Psyho; Game Designer; Problem Solver; won 4 TCOs + bunch of other stuff ;)](https://www.quora.com/profile/Przemys%C5%82aw-D%C4%99biak)
+
 
 ### How to solve problems
 1. [What is the most interesting problem solving technique or trick in programming contest?](https://www.quora.com/What-is-the-most-interesting-problem-solving-technique-or-trick-in-programming-contest)
