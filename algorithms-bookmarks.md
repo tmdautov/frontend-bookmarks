@@ -1,3 +1,7 @@
+
+### How to solve problems
+1. [What is the most interesting problem solving technique or trick in programming contest?](https://www.quora.com/What-is-the-most-interesting-problem-solving-technique-or-trick-in-programming-contest)
+
 ### Trainings
 1. [Как придумывать решения](http://codeforces.com/blog/entry/20548) 
 2. [I have no improvement at all after 10 months of consistent daily training](http://codeforces.com/blog/entry/46766)
