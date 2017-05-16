@@ -1,3 +1,8 @@
+### Trainings
+1. [Как придумывать решения](http://codeforces.com/blog/entry/20548) 
+2. [I have no improvement at all after 10 months of consistent daily training](http://codeforces.com/blog/entry/46766)
+
+
 ### Books
 1. [Competitive Programmer's Handbook](http://codeforces.com/blog/entry/50728)
 
