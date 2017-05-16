@@ -11,6 +11,7 @@
 ### Trainings
 1. [I have no improvement at all after 10 months of consistent daily training](http://codeforces.com/blog/entry/46766)
 2. [dreamoon. If you ask me how to improve your algorithm competition skill, I will give you the link of this blog](http://codeforces.com/blog/entry/16599)
+3. [Training sheet on CF](https://docs.google.com/spreadsheets/d/1iJZWP2nS_OB3kCTjq8L6TrJJ4o-5lhxDOyTaocSYc-k/edit#gid=560402673)
 
 ### Books
 1. [Competitive Programmer's Handbook](http://codeforces.com/blog/entry/50728)
