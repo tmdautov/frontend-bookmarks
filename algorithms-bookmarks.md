@@ -1,6 +1,7 @@
 ### Intresting users
 1. [Przemysław Dębiak aka Psyho; Game Designer; Problem Solver; won 4 TCOs + bunch of other stuff ;)](https://www.quora.com/profile/Przemys%C5%82aw-D%C4%99biak)
 2. [Mariya Mykhailova software developer](https://www.quora.com/profile/Mariya-Mykhailova)
+3. [lebron](https://www.quora.com/profile/Bohdan-Pryshchenko)
 
 ### How to solve problems
 1. [What is the most interesting problem solving technique or trick in programming contest?](https://www.quora.com/What-is-the-most-interesting-problem-solving-technique-or-trick-in-programming-contest)
