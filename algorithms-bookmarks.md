@@ -5,8 +5,8 @@
 
 
 ### Trainings
-2. [I have no improvement at all after 10 months of consistent daily training](http://codeforces.com/blog/entry/46766)
-
+1. [I have no improvement at all after 10 months of consistent daily training](http://codeforces.com/blog/entry/46766)
+2. [dreamoon. If you ask me how to improve your algorithm competition skill, I will give you the link of this blog](http://codeforces.com/blog/entry/16599)
 
 ### Books
 1. [Competitive Programmer's Handbook](http://codeforces.com/blog/entry/50728)
