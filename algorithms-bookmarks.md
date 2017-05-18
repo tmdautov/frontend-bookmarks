@@ -27,3 +27,4 @@
 
 ### Interview
 1. [Solutions to leetcode](http://www.programcreek.com/2012/11/top-10-algorithms-for-coding-interview/)
+2. [Preparation to Facebook interview](https://www.facebook.com/careers/life/preparing-for-your-software-engineering-interview-at-facebook/)
