@@ -64,6 +64,7 @@
 1. [Вопросы собеседования](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
 2. [Список тестовых заданий от Hexlet](https://github.com/Hexlet/ru-test-assignments?utm_source=forwebdev_tlgrm&utm_medium=announcement&utm_campaign=rebyata-iz-heksleta-sobirayut-kollektsiyu-te)
 3. [JS practice tasks](https://github.com/kolodny/exercises?utm_source=forwebdev_tlgrm&utm_medium=announcement&utm_campaign=kollektsiya-prakticheskih-zadaniy-po-javasc)
+4. [Тестовое задание от Ильи Климова](https://gist.github.com/xanf/258d71655a2ad4324b457193bd165019)
 
 ### Блогеры
 1. [Блог Тодда из Google](https://toddmotto.com)
