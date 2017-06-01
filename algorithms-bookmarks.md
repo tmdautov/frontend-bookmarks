@@ -14,6 +14,7 @@
 3. [Training sheet on CF](https://docs.google.com/spreadsheets/d/1iJZWP2nS_OB3kCTjq8L6TrJJ4o-5lhxDOyTaocSYc-k/edit#gid=560402673)
 4. [http://sportprogramming.blogspot.com/2014/07/getting-started-with-sport-of.html](http://sportprogramming.blogspot.com/2014/07/getting-started-with-sport-of.html)
 5. https://docs.google.com/document/d/1_dc3Ifg7Gg1LxhiqMMmE9UbTsXpdRiYh4pKILYG2eA4/edit
+6. [Efficient way to improve my rating?](http://codeforces.com/blog/entry/44081)
 
 ### Books
 1. [Competitive Programmer's Handbook](http://codeforces.com/blog/entry/50728)
