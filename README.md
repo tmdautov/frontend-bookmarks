@@ -68,6 +68,7 @@
 
 ### Блогеры
 1. [Блог Тодда из Google](https://toddmotto.com)
+2. [Блог инженера из Google](http://larrr.com/podhod-k-rabote/)
 
 ### SEO
 1. [61 способ улучшить SEO вашего сайта](https://habrahabr.ru/company/iloveip/blog/322206/)
