@@ -19,6 +19,7 @@
 
 ### Разное
 1. [На этом сайте можно проверить, можно ли применять определенную функцию js или свойство css в браузерах](http://caniuse.com/)
+2. [Json placeholder](https://jsonplaceholder.typicode.com/)
 
 2. [Курсы по фронтенду в УрФУ-2015-2016](https://github.com/urfu-2015)
 
