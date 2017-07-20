@@ -16,6 +16,7 @@
 
 ### Node.js
 1. [Список хостингов для Node.js](https://github.com/nodejs/node-v0.x-archive/wiki/Node-Hosting)
+2. [Checklist: Node.JS production best practices](http://goldbergyoni.com/checklist-best-practice-of-node-js-in-production/)
 
 ### Разное
 1. [На этом сайте можно проверить, можно ли применять определенную функцию js или свойство css в браузерах](http://caniuse.com/)
