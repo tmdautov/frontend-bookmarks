@@ -99,11 +99,5 @@ function getForteButton () {
   return button
 }
 
-setTimeout(run, 1000);
-
-function run() {
-    
-  const div = document.getElementById('root')
-  div.appendChild(getForteButton())
-
-}
+const div = document.getElementById('root')
+div.appendChild(getForteButton())
